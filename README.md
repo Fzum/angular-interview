@@ -12,7 +12,6 @@
 * Handle submission of the form on the click of a button
   * Post the customer information using the `CustomerService`
   * Show a loading spinner while the submission is in progress
-  * For now, it is sufficient to log the value of the form to the console
 * Display a toast message on success
 * Add unit tests for the component
 
